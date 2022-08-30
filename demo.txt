@@ -1,1 +1,3 @@
-We just connected git into terminal through ssh key, added a text file and written this description.
+We just connected git into terminal through ssh key, added a text file and written this description
+
+We will add another line..
